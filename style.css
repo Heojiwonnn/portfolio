@@ -325,3 +325,43 @@ a[title="Flaticon"]:hover{
     outline: none;
     padding: 0px;
 }
+
+/*table*/
+
+table.type07 {
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+    margin: 20px 10px;
+  }
+  table.type07 thead {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-radius: 1px solid #ccc;
+    background: #e7708d;
+  }
+  table.type07 thead th {
+    border-left: 1px solid #ccc;
+    padding: 10px;
+    font-weight:100;
+    vertical-align: top;
+    color: #fff;
+  }
+  table.type07 tbody th {
+    border-left: 1px solid #ccc;
+    width: 350px;
+    padding: 10px;
+    font-weight: 100;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+  }
+  table.type07 td {
+    border-left: 1px solid #ccc;
+    width: 8000px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+  }
