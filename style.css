@@ -3,7 +3,7 @@ body{
 }
 
 .frame{
-    margin: 30px 110px;
+    margin: 30px 150px;
     display: flex;
     flex-direction: column;
 }
@@ -218,7 +218,7 @@ a:hover{
     flex-direction: column;
     justify-content: flex-start;
     align-content: center;
-    margin: 100px 150px;
+    margin: 100px 130px;
     margin-top: 20px;
 }
 
@@ -375,7 +375,7 @@ table.type07 {
   }
   table.type07 tbody th {
     border-left: 1px solid #ccc;
-    width: 13%;
+    width: 15%;
     padding: 10px;
     font-weight: 100;
     vertical-align: center;
