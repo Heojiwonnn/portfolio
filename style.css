@@ -99,11 +99,11 @@ a:hover{
 
 .english-comment{
     font-family: 'Noto Sans KR', sans-serif;
-    font-weight: 100;
+    font-weight: 200;
     font-size: 15px;
     font-style: italic;
 
-    letter-spacing: -0.3px;
+    letter-spacing: -0.5px;
 }
 
 /*recent works*/
