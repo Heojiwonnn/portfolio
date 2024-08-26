@@ -33,8 +33,9 @@ ul{
 
 .nav-menu{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
+    
 }
 
 a{
@@ -245,7 +246,7 @@ a:hover{
 
 .value-name{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 800px;
+    font-weight: 800;
     margin-top: 0px;
     margin-bottom: 10px;
 }
@@ -282,7 +283,7 @@ a[title="Flaticon"]:hover{
     flex-direction: column;
 }
 
-.article{
+.article {
     display: flex;
     flex-direction: row;
     margin-bottom: 100px;
@@ -291,27 +292,34 @@ a[title="Flaticon"]:hover{
 
 .thumbnail {
     width: 300px;
-    height: 300px;
+    height: 400px;
 
 }
 
 .thumbnail1 {
     width: 250px;
-    height: 280px;
-    margin-right: 50px;
+    height: 350px;
+    margin-right: 100px;
 }
 
 .thumbnail2 {
-    width: 335px;
-    height: 200px;
+    width: 250px;
+    height: 350px;
     margin-left: 100px;
 }
 
 .thumbnail3 {
     width: 300px;
     height: 300px;
+    margin-right: 100px;
+}
+
+.thumbnail4 {
+    width: 300px;
+    height: 200px;
     margin-left: 100px;
 }
+
 
 .article-info{
     margin: 0px 20px;
@@ -330,12 +338,12 @@ a[title="Flaticon"]:hover{
 
 .article-comment{
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 100;
 }
 .more{
-    width: content;
-    height: content;
+/*    width: content;*/
+/*    height: content;*/
     float: right;
     margin-right: 10px;
 
@@ -351,7 +359,7 @@ a[title="Flaticon"]:hover{
 
 table.type07 {
     border-collapse: collapse;
-    width: 120%;
+    width: 105%;
     font-size: 14px;
     text-align: left;
     line-height: 1.5;
@@ -362,7 +370,7 @@ table.type07 {
     border-right: 1px solid #ccc;
     border-left: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
-    border-radius: 1px solid #ccc;
+/*    border-radius: 1px solid #ccc;*/
     background: #e7708d;
   }
   table.type07 thead th {
@@ -378,7 +386,7 @@ table.type07 {
     width: 15%;
     padding: 10px;
     font-weight: 100;
-    vertical-align: center;
+/*    vertical-align: center;*/
     text-align:center;
     border-bottom: 1px solid #ccc;
   }
@@ -389,3 +397,4 @@ table.type07 {
     vertical-align: middle;
     border-bottom: 1px solid #ccc;
   }
+
